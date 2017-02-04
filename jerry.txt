@@ -1,0 +1,6 @@
+--> go to https://ant.apache.org/bindownload.cgi
+-->under current release of ant we have tar files ,from that select either 1.10.0 .zip archive: apache-ant-1.10.0-bin.zip [PGP] [SHA1] [SHA512] [MD5] (or)
+1.9.8 .zip archive: apache-ant-1.9.8-bin.zip [PGP] [SHA1] [SHA512] [MD5]
+-->download zip file and keep it in local disc c [program files ]and extract it.
+-->edit environment variables,give variable name as ANT_HOME,and variable value as ant link from local system settings 
+-->
